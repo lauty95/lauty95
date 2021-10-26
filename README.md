@@ -20,7 +20,52 @@ Soy un desarrollador web Full Stack con orientación al Front End
     <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauty95&theme=chartreuse-dark&layout=compact" />
     <img width="35%" align="left" alt="Github" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
   </div>
-  
+
 ##
+  
+  <br />
+  <br />
+
+## 🛠 &nbsp;Tecnologías
+  
+  <img width="60px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+
+  <img width="60px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  
+  <img width="60px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  
+  <img width="60px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  
+  <img width="60px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+
+  <img width="60px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  
+  <img width="60px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  
+  <img width="60px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+
+  <img width="60px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+
+  <img width="60px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg" />
+  
+  <br />
+  
+  ###
+  
+  <br />
+  
+  ## Otras herramientas
+  
+  <img width="60px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+  
+  <img width="60px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
+
+  <img width="60px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+  <img width="60px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
+
+  <img width="60px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
 
   
+  
+
