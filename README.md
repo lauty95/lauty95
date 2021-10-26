@@ -9,6 +9,6 @@ Soy un desarrollador web Full Stack con orientación al Front End
 - 👯 Y siempre busco enfrentarme a nuevos desafíos para crecer profesionalmente
 - 📫 Quieres contactarme? Escríbeme [WhatsApp](https://wa.me/5493492587791)
 
-![Anurag's GitHub stats](ttps://github-readme-stats.vercel.app/api?username=lauty95&theme=chartreuse-dark&show_icons=true)
+![Anurag's GitHub stats](ttps://github-readme-stats.vercel.app/api?username=lauty95&theme=dark&show_icons=true)
 
 
