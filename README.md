@@ -7,6 +7,7 @@ Soy un desarrollador web Full Stack con orientación al Front End
 - 🔭 Actualmente me encuentro desarrollando un E-Commerce con un grupo de compañeros
 - 📚 Me considero una persona curiosa y autodidacta
 - 👯 Y siempre busco enfrentarme a nuevos desafíos para crecer profesionalmente
-- 📫 Quieres contactarme?: [WhatsApp](https://wa.me/5493492587791)
+- 📫 Quieres contactarme? Escríbeme [WhatsApp](https://wa.me/5493492587791)
 
+[chartreuse-dark]: https://github-readme-stats.vercel.app/api?username=lauty95&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark
 
