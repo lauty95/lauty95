@@ -8,6 +8,7 @@ Soy un desarrollador web Full Stack con orientación al Front End
 - 📚 Me considero una persona curiosa y autodidacta
 - 👯 Y siempre busco enfrentarme a nuevos desafíos para crecer profesionalmente
 - 📫 Quieres contactarme? Escríbeme [WhatsApp](https://wa.me/5493492587791)
+- 👉 Checka mi portfolio! [Portfolio](https://lauty95.github.io/lauty95/about.html)
 ##
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lauty95&theme=chartreuse-dark&show_icons=true" />
