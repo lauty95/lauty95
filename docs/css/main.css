@@ -173,6 +173,7 @@ main {
   .about-info .job-1 {
     grid-area: job1; }
     .job-1 h2{
+      margin-left: 30px;
       margin-bottom: 20px;
     }
   .about-info .job-2 {
@@ -184,11 +185,13 @@ main {
       margin-bottom: 20px;
     }
     .job-2 h2{
+      margin-left: 30px;
       margin-bottom: 20px;
     }
   .about-info .job-3 {
     grid-area: job3; }
     .job-3 h2{
+      margin-left: 30px;
       margin-bottom: 20px;
     }
   .about-info .job {
