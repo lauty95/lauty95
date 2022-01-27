@@ -1,0 +1,119 @@
+.a {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.a-left {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 100%;
+}
+
+.a-rigth {
+    flex: 1;
+}
+
+.a-card.bg {
+    position: absolute;
+    background-color: #333;
+}
+
+.a-card {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    width: 70%;
+    height: 60vh;
+    overflow: hidden;
+    background-color: #333;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: space-around;
+}
+
+.a-card .tecnologies {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 10%;
+}
+
+.a-img {
+    margin: 15px;
+    width: 100px;
+}
+
+.a-award-img {
+    width: 220px;
+    height: 120px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.a-title {
+    margin-top: 20px;
+    font-weight: 400;
+}
+
+.a-sub {
+    margin: 20px 0px;
+}
+
+.a-desc {
+    font-weight: 300;
+}
+
+.a-award {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.a-award-texts {
+    width: 70%;
+}
+
+.a-award-title {
+    font-weight: bold;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width: 500px) {
+    .a {
+        flex-direction: column;
+        text-align: center;
+        margin-top: 50px;
+        width: 100%;
+    }
+
+    .a-left {
+        width: 100%;
+    }
+
+    .a-card {
+        height: 100%;
+    }
+
+    .a-img {
+        width: 33px;
+    }
+
+    .a-title {
+        margin-top: 5px;
+    }
+
+    .a-award {
+        display: none;
+    }
+
+    .a-rigth {
+        padding: 20px;
+    }
+}
