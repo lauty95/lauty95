@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/lauty95/static/css/main.2e927330.chunk.css",
-    "main.js": "/lauty95/static/js/main.cc2a22ad.chunk.js",
-    "main.js.map": "/lauty95/static/js/main.cc2a22ad.chunk.js.map",
+    "main.css": "/lauty95/static/css/main.c326c0cc.chunk.css",
+    "main.js": "/lauty95/static/js/main.23ddd3ae.chunk.js",
+    "main.js.map": "/lauty95/static/js/main.23ddd3ae.chunk.js.map",
     "runtime-main.js": "/lauty95/static/js/runtime-main.fdeda364.js",
     "runtime-main.js.map": "/lauty95/static/js/runtime-main.fdeda364.js.map",
     "static/js/2.4a1adfbd.chunk.js": "/lauty95/static/js/2.4a1adfbd.chunk.js",
     "static/js/2.4a1adfbd.chunk.js.map": "/lauty95/static/js/2.4a1adfbd.chunk.js.map",
     "index.html": "/lauty95/index.html",
-    "static/css/main.2e927330.chunk.css.map": "/lauty95/static/css/main.2e927330.chunk.css.map",
+    "static/css/main.c326c0cc.chunk.css.map": "/lauty95/static/css/main.c326c0cc.chunk.css.map",
     "static/js/2.4a1adfbd.chunk.js.LICENSE.txt": "/lauty95/static/js/2.4a1adfbd.chunk.js.LICENSE.txt",
-    "static/media/address.a01cb8cc.png": "/lauty95/static/media/address.a01cb8cc.png",
-    "static/media/award.a796a64f.png": "/lauty95/static/media/award.a796a64f.png",
+    "static/media/certificado.fa1eba8c.png": "/lauty95/static/media/certificado.fa1eba8c.png",
     "static/media/email.a49e0158.png": "/lauty95/static/media/email.a49e0158.png",
+    "static/media/github.ffa70286.png": "/lauty95/static/media/github.ffa70286.png",
+    "static/media/linkedin.712c4ce3.png": "/lauty95/static/media/linkedin.712c4ce3.png",
     "static/media/me.9cfd39bd.png": "/lauty95/static/media/me.9cfd39bd.png",
     "static/media/moon.3bea3d39.png": "/lauty95/static/media/moon.3bea3d39.png",
-    "static/media/phone.d90a6d23.png": "/lauty95/static/media/phone.d90a6d23.png",
-    "static/media/sun.f794832a.png": "/lauty95/static/media/sun.f794832a.png"
+    "static/media/sun.f794832a.png": "/lauty95/static/media/sun.f794832a.png",
+    "static/media/wsp.cb0ffa62.png": "/lauty95/static/media/wsp.cb0ffa62.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fdeda364.js",
     "static/js/2.4a1adfbd.chunk.js",
-    "static/css/main.2e927330.chunk.css",
-    "static/js/main.cc2a22ad.chunk.js"
+    "static/css/main.c326c0cc.chunk.css",
+    "static/js/main.23ddd3ae.chunk.js"
   ]
 }
