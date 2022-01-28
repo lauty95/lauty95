@@ -85,6 +85,12 @@
     right: 0;
 }
 
+.i-download-cv {
+    position: absolute;
+    bottom: 200px;
+    left: 20%;
+}
+
 @media screen and (max-width: 500px) {
     .i {
         flex-direction: column;
@@ -110,6 +116,12 @@
     .i-title-wrapper {
         height: 230px;
         animation: move 7s ease-in-out infinite alternate;
+    }
+
+    .i-download-cv {
+        position: static;
+        display: flex;
+        justify-content: center;
     }
     
     @keyframes move {

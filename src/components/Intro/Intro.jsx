@@ -6,6 +6,11 @@ const Intro = () => {
     const theme = useContext(ThemeContext)
     const darkMode = theme.state.darkMode
 
+    const watchResume = (e) => {
+        e.preventDefault()
+        window.open('https://drive.google.com/file/d/1SFuO043hJ4GzDo6sUhgi9VwQzsc8tiUJ/view?usp=sharing', '_blank')
+    }
+
     return (
         <div className='i'>
             <div className="i-left">
@@ -25,6 +30,9 @@ const Intro = () => {
                         Soy un programador web orientado al Front End. Diseño aplicaciones
                         web adaptadas a resolver problemas concretos.
                     </p>
+                    <div className="i-download-cv">
+                        <button onClick={watchResume}>Descargar CV</button>
+                    </div>
                 </div>
                 <svg
                     width="75"
