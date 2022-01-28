@@ -70,7 +70,7 @@ export const tecnologies = [
   {
     id: 6,
     name: "Node Js",
-    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg",
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg",
   },
   {
     id: 7,

@@ -13,7 +13,8 @@ const App = () => {
 
   let styles = {
     backgroundColor: darkMode ? "#222" : "white",
-    color: darkMode ? "white" : "black"
+    color: darkMode ? "white" : "black",
+    transition: 'all 0.5s ease'
   }
 
   return (

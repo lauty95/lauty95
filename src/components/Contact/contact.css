@@ -15,6 +15,7 @@
 }
 
 .c-left {
+    padding-left: 40px;
     flex: 1;
 }
 
@@ -52,6 +53,7 @@
 
 form {
     margin-top: 20px;
+    width: 80%;
 }
 
 input {
@@ -91,6 +93,10 @@ button {
 @media screen and (max-width: 500px) {
     .c {
         height: 100vh;
+    }
+
+    .c-left {
+        padding: 0;
     }
     
     .c-bg {

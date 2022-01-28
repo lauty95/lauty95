@@ -12,14 +12,15 @@ const Toggle = () => {
     }
 
     var styles = {
-        left: theme.state.darkMode ? "0" : "25px"
+        left: theme.state.darkMode ? "0" : "25px",
+        transition: 'all 0.5s ease'
     }
 
     return (
-        <div className='t'>
+        <div className='t' onClick={handleClick}>
             <img src={Sun} alt="Sol" className="t-icon" />
             <img src={Moon} alt="Luna" className="t-icon" />
-            <div className="t-button" onClick={handleClick} style={styles}></div>
+            <div className="t-button" style={styles}></div>
         </div>
     )
 }

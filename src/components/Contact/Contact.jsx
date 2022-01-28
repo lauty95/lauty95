@@ -18,7 +18,8 @@ const Contact = () => {
     const darkMode = theme.state.darkMode
 
     var styles = {
-        backgroundColor: darkMode ? "#333" : "white"
+        backgroundColor: darkMode ? "#333" : "white",
+        transition: 'all 0.5s ease'
     }
 
     const goTo = (place) => {
@@ -42,7 +43,7 @@ const Contact = () => {
             <div className="c-bg"></div>
             <div className="c-wrapper">
                 <div className="c-left">
-                    <h1 className="c-title">Si quieres contactarme...</h1>
+                    <h1 className="c-title">Medios para contactarme</h1>
                     <div className="c-info">
                         <div className="c-info-item" onClick={() => goTo('https://wa.me/5493492587791?text=Hola Lauty! Me contacto desde tu sitio web')}>
                             <img src={Phone} alt="icono de telefono" className="c-icon" />
@@ -64,7 +65,7 @@ const Contact = () => {
                 </div>
                 <div className="c-right">
                     <p className="c-desc">
-                        Puedes contactarme por cualquiera de mis redes sociales.
+                        Puedes escribirme por cualquiera de mis redes sociales.
                         También puedes completar este formulario y recibiré tu mensaje por correo.
                     </p>
                     <form ref={formRef} onSubmit={handleSubmit} className={done && 'c-finish'}>
