@@ -4,7 +4,7 @@
 
 Soy un desarrollador web Full Stack con orientación al Front End
 
-- 🔭 Actualmente me encuentro desarrollando un E-Commerce con un grupo de compañeros
+- 🔭 Actualmente me encuentro trabajando como desarrollador para Bertilaccini S.A.
 - 📚 Me considero una persona curiosa y autodidacta
 - 👯 Y siempre busco enfrentarme a nuevos desafíos para crecer profesionalmente
 - 📫 Quieres contactarme? Escríbeme [WhatsApp](https://wa.me/5493492587791)
